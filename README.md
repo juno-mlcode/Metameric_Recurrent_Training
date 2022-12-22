@@ -15,3 +15,11 @@ gen_num : number of generated data in one iteration
 numhid, numpen : number of node in Deep Boltzmann Machines
 
 preepoch, mlpmaxepoch, dbmmaxepoch : max epoch of each training stage
+*****
+#brief introduce of main files
+
+main.m – training and test suggested model
+rbm.m – declaration of restricted boltzmann machine
+dbm.m – declaration of deep boltzmann machine
+backprop.m – backpropagation of model
+mnistdata.m - data preprocessing
