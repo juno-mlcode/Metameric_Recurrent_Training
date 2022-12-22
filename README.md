@@ -7,7 +7,11 @@ This work was supported by Institute for Information & communications Technology
 1. Install Matlab >= 2020 version
 2. Open the main.m file
 3. Modify following values
+
 numfid : number of iterations of recurrent training
+
 gen_num : number of generated data in one iteration
+
 numhid, numpen : number of node in Deep Boltzmann Machines
+
 preepoch, mlpmaxepoch, dbmmaxepoch : max epoch of each training stage
