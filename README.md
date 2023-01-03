@@ -1,4 +1,5 @@
-10.5281/zenodo.7500710
+[![DOI](https://zenodo.org/badge/581305624.svg)](https://zenodo.org/badge/latestdoi/581305624)
+
 # Metameric_Recurrent_Training
 
 This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2019-0-01371, Development of brain-inspired AI with human-like intelligence).
